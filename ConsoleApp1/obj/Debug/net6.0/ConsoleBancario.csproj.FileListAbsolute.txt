@@ -1,0 +1,15 @@
+C:\Users\Raian Almeida\Desktop\Projetos CSharp\ConsoleBancario\ConsoleApp1\bin\Debug\net6.0\ConsoleBancario.exe
+C:\Users\Raian Almeida\Desktop\Projetos CSharp\ConsoleBancario\ConsoleApp1\bin\Debug\net6.0\ConsoleBancario.deps.json
+C:\Users\Raian Almeida\Desktop\Projetos CSharp\ConsoleBancario\ConsoleApp1\bin\Debug\net6.0\ConsoleBancario.runtimeconfig.json
+C:\Users\Raian Almeida\Desktop\Projetos CSharp\ConsoleBancario\ConsoleApp1\bin\Debug\net6.0\ConsoleBancario.dll
+C:\Users\Raian Almeida\Desktop\Projetos CSharp\ConsoleBancario\ConsoleApp1\bin\Debug\net6.0\ConsoleBancario.pdb
+C:\Users\Raian Almeida\Desktop\Projetos CSharp\ConsoleBancario\ConsoleApp1\obj\Debug\net6.0\ConsoleBancario.csproj.AssemblyReference.cache
+C:\Users\Raian Almeida\Desktop\Projetos CSharp\ConsoleBancario\ConsoleApp1\obj\Debug\net6.0\ConsoleBancario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raian Almeida\Desktop\Projetos CSharp\ConsoleBancario\ConsoleApp1\obj\Debug\net6.0\ConsoleBancario.AssemblyInfoInputs.cache
+C:\Users\Raian Almeida\Desktop\Projetos CSharp\ConsoleBancario\ConsoleApp1\obj\Debug\net6.0\ConsoleBancario.AssemblyInfo.cs
+C:\Users\Raian Almeida\Desktop\Projetos CSharp\ConsoleBancario\ConsoleApp1\obj\Debug\net6.0\ConsoleBancario.csproj.CoreCompileInputs.cache
+C:\Users\Raian Almeida\Desktop\Projetos CSharp\ConsoleBancario\ConsoleApp1\obj\Debug\net6.0\ConsoleBancario.dll
+C:\Users\Raian Almeida\Desktop\Projetos CSharp\ConsoleBancario\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleBancario.dll
+C:\Users\Raian Almeida\Desktop\Projetos CSharp\ConsoleBancario\ConsoleApp1\obj\Debug\net6.0\ConsoleBancario.pdb
+C:\Users\Raian Almeida\Desktop\Projetos CSharp\ConsoleBancario\ConsoleApp1\obj\Debug\net6.0\ConsoleBancario.genruntimeconfig.cache
+C:\Users\Raian Almeida\Desktop\Projetos CSharp\ConsoleBancario\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleBancario.dll
